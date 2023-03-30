@@ -42,7 +42,7 @@ class _SecondPageState extends State<SecondPage> {
           ),
           Card(
             child: Text(
-              '''The trip home also included Japanese astronaut Koichi Wakata, Russian cosmonaut Anna Kikina, and NASAs Josh Cassada.
+              '''The trip home alsooo included Japanese astronaut Koichi Wakata, Russian cosmonaut Anna Kikina, and NASAs Josh Cassada.
 —Brenton Blanchet, Peoplemag, 12 Mar. 2023
 Ready to climb on board the Crew Dragon Endurance are NASA astronauts Nicole Mann and Josh Cassada as well as Japan Aerospace Exploration Agency astronut Koichi Wakata and Roscosmos cosmonaut Anna Kikina.
 —Richard Tribou, Orlando Sentinel, 9 Mar. 2023''',
